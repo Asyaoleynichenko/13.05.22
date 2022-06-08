@@ -5,11 +5,10 @@
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#FFFFFF;}
-	.st2{fill:#ED9C2F;}
+	.st2{fill:#A8A9AD;}
 </style>
 <ellipse class="st0" cx="481" cy="420.8" rx="417" ry="420.8"/>
 <path class="st1" d="M803.1,220.1"/>
-<path class="st2" d="M866.3,273.3c-15.1,8.8-30.2,17.6-45.3,26.4c6.8,7.8,27.2,33.5,35,78.5c8.4,48.8-3.6,87.9-7.2,98.6
-	c14-4.2,28-8.3,42.1-12.5c4-17.1,10.6-53.1,5.2-98C890.3,319.2,874.3,287.3,866.3,273.3z"/>
 <path class="st1" d="M540.1,359.4"/>
+<rect x="431" y="4.9" class="st2" width="100" height="94"/>
 </svg>
